@@ -2,7 +2,7 @@
 
 # Skill
 ![Elanaly's GitHub stats](https://github-readme-stats.vercel.app/api?username=elanaly&show_icons=true)
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elanaly&layout=compact)
 
 <!--
 **Elanaly/Elanaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
