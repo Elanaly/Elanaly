@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# Skill
+![Elanaly's GitHub stats](https://github-readme-stats.vercel.app/api?username=elanaly&show_icons=true&theme=vue-dark)
+
 <!--
 **Elanaly/Elanaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
